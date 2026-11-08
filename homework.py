@@ -30,4 +30,4 @@ df["Total"] = df["Maths"] + df["Science"] + df["English"]
 df["Average"] = df["Total"] / 3
 
 print("\nFinal student results: " )
-print(df)
+print(df) 
